@@ -24,3 +24,6 @@ Prerequisites
 
 Node.js 16+
 Python 3.8+
+
+Link to Go to the landing Page:
+https://moodbites-food-agent-q5nk.bolt.host/
